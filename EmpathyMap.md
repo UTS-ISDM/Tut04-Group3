@@ -22,7 +22,8 @@ Their main job at the moment is to try and make sales of holiday packages. With 
 They would be constantly hearing from colleagues the issues of being a part of a call centre team such as worries of job security and how long they will continue doing their job.
 ## 1.7. What do they THINK and FEEL?
 
-Pains (what are their fears, frustrations and anxieties) - Gains (What are their wants, needs, hopes and dreams?)
+Pains (what are their fears, frustrations and anxieties) | Gains (What are their wants, needs, hopes and dreams?)
+-------------------------------------------------------- | ------------------------------------------------------
 Lose job due to new system The system could become biased depending on whose RM profile matches customers the most | For the system to improve the number of customers  they get
 Not having enough input to how the system they use works | They need to maintain their employment to continue providing for themselves/family
 
