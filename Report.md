@@ -6,7 +6,7 @@
 ## 2.4 Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use. 
 
 # 3. Workproducts, models and descriptions.
-# 3.1 Document your proposed work products and models.
+## 3.1 Document your proposed work products and models.
 # 4. Competitive advantage & assumptions
 
 ## 4.1 List assumptions you have made in the systems analysis. 
