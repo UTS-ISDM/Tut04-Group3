@@ -10,7 +10,7 @@
 # 4. Competitive advantage & assumptions
 
 ## 4.1 Reflect, Assumptions, POV and HMW
-Reflection / Assumptions
+### Reflection / Assumptions
 We have created the following assumptions and stated our reflections for the System call management system
 
 __Payment Method__
@@ -36,6 +36,13 @@ Relationship managers profiles are initialized during the start of their career 
 __Busy time is considered when all RM are currently in a call__
 
 We decided that a busy time is determined by when all relationship managers are currently on a call. During a busy time all inbound calls should be redirected to the interactive Voice Response.
+
+### POV
+User | Needs to | Insight
+---- | -------- | -------
+End & Potential Customers | Payment method online | Customers should be able to make payments through EFT or card.
+Developer | Set of tasks to perform on the system | Developers should be getting feedback on the usability of the process and possible improvements required.
+Developer | Continue to maintain & support the product after development | Developers should continue to fix issues or any bugs that may occur in the future.
 
 
 ## 4.2 Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails 8. Document in GitHub all your iteration and models as you progress.
