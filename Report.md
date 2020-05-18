@@ -50,8 +50,10 @@ Developers | Busy time is considered when all RM are currently in a call | Busy 
 ### HMW statement
 HMW | Potential Solutions 
 ------- | -------------------------
-HMW improve the payment system for customers? | * The RM or System is able to provide the user with an immediate link to a payment page with their desired package to be paid for * The system is able to handle the users input actions and follow through with the appropriate payment methods for the user
-HMW provide the feedback to the developers in a way they are able to understand | * A simple bullet point list with simple language used to convey any issues found in the system * A mind-map can be used to list out all the current issues by linking them with a specific area or feature in the system. * The relationship managers should actively work with the developers by constantly providing feedback so that the developers may cater with the needs of the system properly
+HMW improve the payment system for customers? | <ul><li>The RM or System is able to provide the user with an immediate link to a payment page with their desired package to be paid for</li><li>The system is able to handle the users input actions and follow through with the appropriate payment methods for the user</li></ul>|
+HMW provide the feedback to the developers in a way they are able to understand | <ul><li>A simple bullet point list with simple language used to convey any issues found in the system</li><li>A mind-map can be used to list out all the current issues by linking them with a specific area or feature in the system.</li><li>The relationship managers should actively work with the developers by constantly providing feedback so that the developers may cater with the needs of the system properly</li></ul>
+HMW discover the bugs to be found in the system | <ul><li>The developers should try and actively test the features of the system and create a simple documentation to record any issues found</li><li>The developers should try and keep the code as clean as possible to prevent as many errors so that it does not waste unnecessary amounts of time</li></ul>
+
 
 
 ## 4.2 Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails 8. Document in GitHub all your iteration and models as you progress.
