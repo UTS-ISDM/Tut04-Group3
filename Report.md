@@ -47,7 +47,7 @@ Relationship Managers | Receive a Target List | The RMs should be able to use th
 Relationship Managers | Profiles are able to be updated whenever needed | Profiles are initialised at hiring therefore RM’s should be able to update their profile whenever they need to should their personal information or repetoire change
 Developers | Busy time is considered when all RM are currently in a call | Busy time is considered when all Relationship Managers are currently in a call with customers
 
-### HMW statement
+### HMW Statements
 HMW | Potential Solutions 
 ------- | -------------------------
 HMW improve the payment system for customers? | <ul><li>The RM or System is able to provide the user with an immediate link to a payment page with their desired package to be paid for</li><li>The system is able to handle the users input actions and follow through with the appropriate payment methods for the user</li></ul>|
