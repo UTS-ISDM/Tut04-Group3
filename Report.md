@@ -12,6 +12,7 @@
 ## 4.1 Reflect, Assumptions, POV and HMW
 Reflection / Assumptions
 We have created the following assumptions and stated our reflections for the System call management system
+
 __Payment Method__
 From the system we realised that for the customers to pay for their desired holiday packages, the system must be able to support various payment methods such as Card, EFT, Telegraphic Transfer, Paypal and etc. Hence, we require that our system should be able to support such payment features for ease of payment if our customers are not present in the shop itself.
 
