@@ -43,7 +43,9 @@ User | Needs to | Insight
 End & Potential Customers | Payment method online | Customers should be able to make payments through EFT or card.
 Developer | Set of tasks to perform on the system | Developers should be getting feedback on the usability of the process and possible improvements required.
 Developer | Continue to maintain & support the product after development | Developers should continue to fix issues or any bugs that may occur in the future.
-
+Relationship Managers | Receive a Target List | The RMs should be able to use the list to determine the most likely customers to purchase a holiday package in an outbound call
+Relationship Managers | Profiles are able to be updated whenever needed | Profiles are initialised at hiring therefore RM’s should be able to update their profile whenever they need to should their personal information or repetoire change
+Developers | Busy time is considered when all RM are currently in a call | Busy time is considered when all Relationship Managers are currently in a call with customers
 
 ## 4.2 Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails 8. Document in GitHub all your iteration and models as you progress.
 
