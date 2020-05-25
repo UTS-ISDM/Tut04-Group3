@@ -13,7 +13,54 @@ Relationship Manager (RM) | RM's along with the customers are the main users of 
 End Customers | End customers are stakeholders who have preivously brought a holiday package/ have their profile already registered in the system. The development of the call management system must play an important role to easily integrate & retain this customer base during the development phase. 
 Potential Customers | Potential customers are customers who are within the target market of the product. They are yet to purchase a product but are with likely probability to potentially become a user of the product. The call management system should ensure that the current system does not defer potential customer's from purchasing a holiday package.
 Developers | Developers are the creaters of the Call Management System. Their role is to implement & maintance the call management system based on the requirements of each stakeholder.
+
+## 1.3 Stakeholders Empathy Maps
+### 1.3.1 Relationship Managers
+**WHO are we empathizing with?**
+
+Relationship Managers (RM's), RM’s are the main employees of the call centre and have the role of interacting with customers and potential buyers
+
+**What do they need to DO?**
+
+Due to their experience, during development of the new system they may be able to provide some guidance on what they think appropriate criteria for changing the call flow rate may be.  
+
+**What do they SEE?**
+
+As call centre employees they commonly see their jobs being outsourced overseas to areas that can provide cheaper labour so this would be a source of worry for them. With the development of this new system they may see it as an inconvenience as now the call flow rate will be determined on a performance basis rather than random as it was before. 
+
+**What do they SAY?**
+
+* Relationship managers will inform the customers of the holiday packages including
+* Price
+* Duration
+* Terms and conditions
+* Insurance policies
+
+**What do they DO**
+
+Their main job at the moment is to try and make sales of holiday packages. With success being determined by how many packages are sold.
+
+**What do they HEAR**
+
+They would be constantly hearing from colleagues the issues of being a part of a call centre team such as worries of job security and how long they will continue doing their job.
+
+**What do they THINK and FEEL?**
+
+* Pains (what are their fears, frustrations and anxieties)
+Lose job due to new system. The system could become biased depending on whose RM profile matches customers the most
+Not having enough input to how the system they use works
+* Gains (What are their wants, needs, hopes and dreams?)
+For the system to improve the number of customers  they get
+They need to maintain their employment to continue providing for themselves/family
+
+### 1.3.2 Relationship Managers
+
+### 1.3.3 Relationship Managers
+
+### 1.3.4 Relationship Managers
+
 # 2. Design Thinking
+
 ## 2.1 Describe your approach from a Design Thinking principles perspective. 
 The approach taken for the design thinking process was to split it up into seven areas, empathize, define, ideate, prototype and test. By starting to empathize with the (possible and determined) stakeholders the goal of the project is to develop a Calling Management System which will be able to put their service at a much more competitive level to meet their competitors strengths and their customer’s demands in particular. 
 
