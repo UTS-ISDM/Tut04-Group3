@@ -53,9 +53,9 @@ Not having enough input to how the system they use works
 For the system to improve the number of customers  they get
 They need to maintain their employment to continue providing for themselves/family
 
-### 1.3.2 Relationship Managers
 
-### 1.3.3 End Customers
+
+### 1.3.2 End Customers
 **WHO are we empathizing with?**
 End customers
 End customers are customers who currently exist in the system and are the main recipient of the information system service
@@ -86,7 +86,7 @@ Holiday package is not suitable for them - waste of time for customers	Fulfil a 
 
 
 
-### 1.3.4 Potential Customers
+### 1.3.3 Potential Customers
 
 **WHO are we empathizing with?**
 Potential Customers
@@ -114,6 +114,11 @@ Externally, they may hear from friends and family the annoyances of increased te
 Pains (what are their fears, frustrations and anxieties)	Gains (What are their wants, needs, hopes and dreams?)
 That people calling them are untrustworthy and dangerous	They will ultimately have a desire to go on holiday at some point and would benefit from being sold a holiday package
 If they purchase packages over the phone they will lose their money	
+
+
+
+### 1.3.4 Developers
+
 
 # 2. Design Thinking
 
