@@ -7,6 +7,14 @@
 
 # 3. Workproducts, models and descriptions.
 ## 3.1 Document your proposed work products and models.
+The call management system consist of 4 main stake holders. Below is a table of each stakeholder and their responiblity/role they contribute to the system.
+
+Stakeholder | Role/ responibility
+----------- | --------------------
+Relationship Manager (RM) | RM's along with the customers are the main users of the call management system. Their primary role is sell holiday packages to customers. The call managment system will effectively improve the relationship manager's role by matching a RM to a customer based on the RM's profile.
+End Customers | End customers are stakeholders who have preivously brought a holiday package/ have their profile already registered in the system. The development of the call management system must play an important role to easily integrate & retain this customer base during the development phase. 
+Potential Customers | Potential customers are customers who are within the target market of the product. They are yet to purchase a product but are with likely probability to potentially become a user of the product. The call management system should ensure that the current system does not defer potential customer's from purchasing a holiday package.
+Developers | Developers are the creaters of the Call Management System. Their role is to implement & maintance the call management system based on the requirements of each stakeholder.
 # 4. Competitive advantage & assumptions
 
 ## 4.1 Reflect, Assumptions, POV and HMW
