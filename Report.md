@@ -14,8 +14,17 @@ End Customers | End customers are stakeholders who have preivously brought a hol
 Potential Customers | Potential customers are customers who are within the target market of the product. They are yet to purchase a product but are with likely probability to potentially become a user of the product. The call management system should ensure that the current system does not defer potential customer's from purchasing a holiday package.
 Developers | Developers are the creaters of the Call Management System. Their role is to implement & maintance the call management system based on the requirements of each stakeholder.
 # 2. Design Thinking
-## 2.3 Describe your approach from a Design Thinking principles perspective. 
-## 2.4 Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use. 
+## 2.1 Describe your approach from a Design Thinking principles perspective. 
+The approach taken for the design thinking process was to split it up into seven areas, empathize, define, ideate, prototype and test. By starting to empathize with the (possible and determined) stakeholders the goal of the project is to develop a Calling Management System which will be able to put their service at a much more competitive level to meet their competitors strengths and their customer’s demands in particular. 
+
+Empathizing is very vague and nothing much is known of what we are empathizing about, thus by using an Empathy Map it becomes possible to document and comment on the users of the future system and their feelings such as what they think, feel, see, say, hear or even do about their current system or even the future system to come. Via their emotions it becomes clear on what is needed for the future system in comparison to the current one and can be used to develop User Stories an artefact used to create the base of the future system. 
+
+Through the immersion of the consumers (End Customers) thoughts and the other main users (the relationship managers) the needs of the users can be defined and their point of views (PoV’s) on the topic are developed. By means of these PoV’s we develop How Might We (HMW) statements to provide potential solutions to the users of the future system using logically created and inferred statements.
+These HMW statements are indisputably well used in providing brainstorming ideas for the ideation phase. These ideas are also the potential solutions which were carved out from the point of views otherwise the issues or the user’s worries. It is from these ideas that they are firstly selected for their potential and then their feasibility before moving on to the Prototyping Phase.
+
+As emphasized by the agile manifesto values especially “Customer Collaboration over Contract Negotiation”, it is important to remember that the ideas to be prototyped should be developed in iterations and as such, each prototyped idea must encompass its ability answer any questions raised and to most importantly discern out any issues with the prototype with constant testing. Re-iterative and constant testing will prove to be highly advantageous as live-user participation will provide the most valuable feedback to creating a working software and at the same time helps to mold the system into what is wanted by the stakeholders in particular. Therefore, this ultimately helps to clear up misunderstandings between the developed prototype versus what is actually needed.
+
+## 2.2 Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use. 
 
 # 3. Workproducts, models and descriptions.
 ## 3.1 Document your proposed work products and models.
