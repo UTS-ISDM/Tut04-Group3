@@ -57,6 +57,7 @@ They need to maintain their employment to continue providing for themselves/fami
 
 ### 1.3.2 End Customers
 **WHO are we empathizing with?**
+
 End customers
 End customers are customers who currently exist in the system and are the main recipient of the information system service
 
