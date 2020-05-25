@@ -129,10 +129,42 @@ Pains (what are their fears, frustrations and anxieties)	Gains (What are their w
 That people calling them are untrustworthy and dangerous	They will ultimately have a desire to go on holiday at some point and would benefit from being sold a holiday package
 If they purchase packages over the phone they will lose their money	
 
-
-
 ### 1.3.4 Developers
 
+**WHO are we empathizing with?**
+
+Developers are the people responsible for creating the new system for the travel company. They have been contracted by the company to improve the call management centre and play the crucial role of making the project successful.
+
+**What do they need to DO?**
+
+They will need to elicit all the necessary requirements from current users of the system and work on implementing solutions that reflect the customers needs.
+
+**What do they SEE?**
+
+They see a changing technology landscape where emphasis by younger generations is no longer placed on communication over telephone, 
+
+**What do they SAY?**
+
+Developers should inform the company what functionalities are possible based on the budget of the project. 
+
+If a requirement cannot be met, they should let the company know why and how they may resolve the issue
+
+**What do they DO?**
+
+Develop the software of the calling system to match the requirements sent out to them, from the company.
+
+They will also be required to maintain the software to ensure the functionalities are up to date
+
+**What do they HEAR**
+
+They would have heard the company’s requirements of the information system.
+
+**What do they THINK and FEEL?**
+
+Pains (what are their fears, frustrations and anxieties) | Gains (What are their wants, needs, hopes and dreams?)
+-------------------------------------------------------- | ------------------------------------------------------
+May be worried that their final solution could put some people out of a job | Want to provide a good final solution so the customer is happy and may use their companies services again
+Worry that if they can’t provide a quality final solution they may gain a negative reputation in the industry.| Improve the customers calling experience and have more successful sales made
 
 # 2. Design Thinking
 
