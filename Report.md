@@ -185,8 +185,14 @@ Worry that if they can’t provide a quality final solution they may gain a nega
 
 <p align="justify"> For the project scrum was chosen as the preferred methodology in order to manage the tasks assigned while the due date of the project in consideration. In order to stay in contact with all members developing the system and product owner, a repository Using the online software Github has been created. Github would allow the product owner to monitor the work on the project throughout the entire process and add any recommendations at all time or highlights any changes that are required while the project is in progress. Developers would benefit from using Github as well as customers, Github allows developers to list all their tasks with the ability to sort these tasks depending on the priority of the task for each stage. Github would be an essential part of the work in cases where physical meetings are limited. As scrum requires 15 minutes daily meeting to discuss the progress made for all members of the development team. </p>
   
-# 3. Workproducts, models and descriptions.
-## 3.1 Document your proposed work products and models.
+# 3. Workproducts, Models and Descriptions
+## 3.1 Use Case Diagram
+![](images/Use%20Case%20Diagram.jpg)
+## 3.2 Class Diagram
+![](images/Class%20Diagram.jpg)
+## 3.3 Activity Diagram
+
+## 3.4 Collaborative Diagram (Interaction Diagram)
 # 4. Competitive advantage & assumptions
 
 ## 4.1 Reflect, Assumptions, POV and HMW
