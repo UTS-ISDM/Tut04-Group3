@@ -7,7 +7,7 @@
 ## 1.2 Stakeholder Identification
 <p align="justify"> The call management system consists of 4 main stakeholders whereby the table below aims to show who are these stakeholders and what are their responiblities or roles to which they contribute to the current system. </p>
 
-Stakeholder | Role/ responibility
+Stakeholder | Role/ Responibility
 ----------- | --------------------
 Relationship Manager (RM) | <p align="justify"> RM's along with the customers are the main users of the call management system. Their primary role is sell holiday packages to customers. The call managment system will effectively improve the relationship manager's role by matching a RM to a customer based on the RM's profile. </p>
 End Customers | <p align="justify"> End customers are stakeholders who have preivously brought a holiday package/ have their profile already registered in the system. The development of the call management system must play an important role to easily integrate & retain this customer base during the development phase. </p>
@@ -16,19 +16,19 @@ Developers | <p align="justify"> Developers are the creaters of the Call Managem
 
 ## 1.3 Stakeholders Empathy Maps
 ### 1.3.1 Relationship Managers
-**WHO are we empathizing with?**
+**Who are we empathizing with?**
 
 <p align="justify"> Relationship Managers (RM's), RM’s are the main employees of the call centre and have the role of interacting with customers and potential buyers </p>
 
-**What do they need to DO?**
+**What do they need to do?**
 
 <p align="justify"> Due to their experience, during development of the new system they may be able to provide some guidance on what they think appropriate criteria for changing the call flow rate may be. </p>
 
-**What do they SEE?**
+**What do they see?**
 
 <p align="justify"> As call centre employees they commonly see their jobs being outsourced overseas to areas that can provide cheaper labour so this would be a source of worry for them. With the development of this new system they may see it as an inconvenience as now the call flow rate will be determined on a performance basis rather than random as it was before. </p>
 
-**What do they SAY?**
+**What do they say?**
 
 * Relationship managers will inform the customers of the holiday packages including
 * Price
@@ -36,15 +36,15 @@ Developers | <p align="justify"> Developers are the creaters of the Call Managem
 * Terms and conditions
 * Insurance policies
 
-**What do they DO**
+**What do they do**
 
 <p align="justify"> Their main job at the moment is to try and make sales of holiday packages. With success being determined by how many packages are sold. </p>
 
-**What do they HEAR**
+**What do they hear**
 
 <p align="justify"> They would be constantly hearing from colleagues the issues of being a part of a call centre team such as worries of job security and how long they will continue doing their job. </p>
 
-**What do they THINK and FEEL?**
+**What do they think and feel?**
 
 Pains:
 * <p align="justify"> Lose current job due to a new outperforming system. The system could become biased depending on whose RM profile matches customers the most. </p>
@@ -55,32 +55,32 @@ Gains:
 * They need to maintain their employment to continue providing for themselves or their family.
 
 ### 1.3.2 End Customers
-**WHO are we empathizing with?**
+**Who are we empathizing with?**
 
 <p align="justify"> The End customers are the customers who currently exist in the system and are the main recipient of the current Call System in-use. </p>
 
-**What do they need to DO?**
+**What do they need to do?**
 
 <p align="justify"> End customers will need to set up their account, user profile, whilst having to continuously let the system know if there are any changes in personal details. End customer will also be required to dial a number reaching the CMC which will automatically route them to a branch. </p>
 
-**What do they SEE?**
+**What do they see?**
 
 <p align="justify"> End customers are expected to receive calls from the system that will connect them to the relationship manager. They’re more likely to take priority as customers with a highest score are served first. </p>
 
-**What do they SAY?**
+**What do they say?**
 
 <p align="justify"> Potential customers may ask for a quote on holiday packages or discuss what package the package entails. Things they may ask - How long is the holiday? Cost of holiday? Insurance policies? They will also let the relationship manage know if they’re interested in purchasing a product. </p>
 
-**What do they DO?**
+**What do they do?**
 
 <p align="justify"> End customer’s should listen to what the product package offers and potentially state whether they are or not interested in purchasing the holiday package. If they’re interested they will be required to provide purchasing details. If they’re not interested they can tell the relationship manager and end the conversation or call. </p>
 
-**What do they HEAR**
+**What do they hear**
 
 * <p align="justify"> During a call with end customers they will hear the relationship manager speak about in depth details on the holiday package. </p> 
 * <p align="justify"> Externally , they may hear from friends and family the annoyances of increased telemarketing calls and scams </p>
 
-**What do they THINK and FEEL?**
+**What do they think and feel?**
 
 Pains:	
 * Annoyance of telemarketers calling them.	
@@ -92,32 +92,32 @@ Gains
 
 ### 1.3.3 Potential Customers
 
-**WHO are we empathizing with?**
+**Who are we empathizing with?**
 
 <p align="justify"> A potential customer is one who is not currently using the system but it is highly likely they will use it, as relationship managers (RM’s) call them and try to sign them up for different holiday packages. </p>
 
-**What do they need to DO?**
+**What do they need to do?**
 
 <p align="justify"> Potential customers will be required to create a customer profile/account so that they can utilise the information system service. This allows the system to easily match the customers to the relationship manager based on their needs & skills. </p>
 
-**What do they SEE?**
+**What do they see?**
 
 <p align="justify"> Potential customers may see the RM’s as an inconvenience if they are not expecting them to reach out and call them. The potential customers probably see many phone call made to them from other telemarketing agencies that may be outsourced overseas with operators who are not highly skilled, this causes them to have a disinterest in all marketing calls. </p>
 
-**What do they SAY?**
+**What do they say?**
 
 <p align="justify"> Some potential customers are receptive and become customers who purchase holiday packages and are grateful for the work of the RM’s, while other potential customers will be annoyed at being contacted and will say to not make contact with them again. </p>
 
-**What do they DO?**
+**What do they do?**
 
 Potential customers cover a wide number of people from all walks of life and can be
 
-**What do they HEAR**
+**What do they hear**
 
 * <p align="justify"> During a call with end customers they will hear the relationship manager speak about in depth details on the holiday package. </p>
 * <p align="justify"> Externally, they may hear from friends and family the annoyances of increased telemarketing calls and scams </p>
 
-**What do they THINK and FEEL?**
+**What do they think and feel?**
 
 Pains
 * <p align="justify"> The people who are conversing with them are not trustworthy or are dangerous (scammers). </p>
@@ -128,33 +128,33 @@ Gains:
 
 ### 1.3.4 Developers
 
-**WHO are we empathizing with?**
+**Who are we empathizing with?**
 
 <p align="justify"> Developers are the people responsible for creating the new system for the travel company. They have been contracted by the company to improve the call management centre and play the crucial role of making the project successful. </p>
 
-**What do they need to DO?**
+**What do they need to do?**
 
 <p align="justify"> They will need to elicit all the necessary requirements from current users of the system and work on implementing solutions that reflect the customers needs. </p>
 
-**What do they SEE?**
+**What do they see?**
 
 <p align="justify"> They see a changing technology landscape where emphasis by younger generations is no longer placed on communication over telephone. </p>
 
-**What do they SAY?**
+**What do they say?**
 
 <p align="justify"> Developers should inform the company what functionalities are possible based on the budget of the project. If a requirement cannot be met, they should let the company know why and how they may resolve the issue. </p>
 
-**What do they DO?**
+**What do they do?**
 
 * <p align="justify"> Develop the software of the calling system to match the requirements sent out to them, from the company. </p>
 
 * <p align="justify"> They will also be required to maintain the software to ensure the functionalities are up to date. </p>
 
-**What do they HEAR**
+**What do they hear?**
 
 <p align="justify"> They would have heard the company’s requirements of the information system. </p>
 
-**What do they THINK and FEEL?**
+**What do they think and feel?**
 
 Pains
 * <p align="justify"> May be worried that their final solution could put some people out of a job </p> 
@@ -166,8 +166,8 @@ Gains
 
 # 2. Design Thinking
 
-## 2.1 Describe your approach from a Design Thinking principles perspective. 
-<p align="justify"> The approach taken for the design thinking process was to split it up into seven areas, empathize, define, ideate, prototype and test. By starting to empathize with the (possible and determined) stakeholders the goal of the project is to develop a Calling Management System which will be able to put their service at a much more competitive level to meet their competitors strengths and their customer’s demands in particular. </p>
+## 2.1 Design Thinking
+<p align="justify"> The approach taken for the design thinking process was to split it up into the usual seven areas of design thinking namely: empathize, define, ideate, prototype and test. By starting to empathize with the (possible and determined) stakeholders the goal of the project is to develop a Calling Management System which will be able to put their service at a much more competitive level to meet their competitors strengths and their customer’s demands in particular. </p>
 
 <p align="justify"> Empathizing is very vague and nothing much is known of what we are empathizing about, thus by using an Empathy Map it becomes possible to document and comment on the users of the future system and their feelings such as what they think, feel, see, say, hear or even do about their current system or even the future system to come. Via their emotions it becomes clear on what is needed for the future system in comparison to the current one and can be used to develop User Stories an artefact used to create the base of the future system. </p>
 
@@ -184,24 +184,35 @@ Gains
 <p align="justify"> For the project scrum was chosen as the preferred methodology in order to manage the tasks assigned while the due date of the project in consideration. In order to stay in contact with all members developing the system and product owner, a repository Using the online software Github has been created. Github would allow the product owner to monitor the work on the project throughout the entire process and add any recommendations at all time or highlights any changes that are required while the project is in progress. Developers would benefit from using Github as well as customers, Github allows developers to list all their tasks with the ability to sort these tasks depending on the priority of the task for each stage. Github would be an essential part of the work in cases where physical meetings are limited. As scrum requires 15 minutes daily meeting to discuss the progress made for all members of the development team. </p>
   
 # 3. Workproducts, Models and Descriptions
-## 3.1 Use Case Diagram
+## 3.1 User Stories
+Based on the stakeholders and their empathy maps above, the set journey of use cases were found and could be categorized mainly into 4 major steps each with its own branching architecture. These journeys were namely:
+* Profile Creation
+* RM and Customer Matching
+* Call Redirection 
+* Payment
+
+User Story ID                |               User Story                |           Use Case Category
+-----------------------------|-----------------------------------------|---------------------------------
+-insert user story id- | -insert user story- | -insert its appropriate category- 
+
+## 3.2 Use Case Diagram
 ![](images/Use%20Case%20Diagram.jpg)
-## 3.2 Class Diagram
+## 3.3 Class Diagram
 ![](images/Class%20Diagram.jpg)
-## 3.3 Activity Diagram
+## 3.4 Activity Diagram
 
-## 3.4 Collaborative Diagram (Interaction Diagram)
-# 4. Competitive advantage & assumptions
+## 3.5 Collaborative Diagram (Interaction Diagram)
 
-## 4.1 Reflect, Assumptions, POV and HMW
-### Reflection / Assumptions
-We have created the following assumptions and stated our reflections for the System call management system
+# 4. System Evaluation
+
+## 4.1 Reflections and Assumptions
+<p align="justify"> The statements below encompass the assumptions and reflections made for the developed Call Management System especially on certain tasks and areas. </p>
 
 __Payment Method__
 
 <p align="justify"> From the system we realised that for the customers to pay for their desired holiday packages, the system must be able to support various payment methods such as Card, EFT, Telegraphic Transfer, Paypal and etc. Hence, we require that our system should be able to support such payment features for ease of payment if our customers are not present in the shop itself. <p>
 
-__Set of tasks to perform on the system__
+__Set of tasks to perform on the System__
 
 <p align="justify"> For the system to provide the necessary features we need the development team to be able to create the necessary programs and tools required for the Call Management Centre to succeed in its new calling-system. Such features can include profiling of customers or even sorting customer’s to the most appropriate and similarly described Relationship Managers to ease on the traffic of the calls during Inbound and Outbound Calls. </p>
 
@@ -213,15 +224,15 @@ __Receive a Target List__
 
 <p align="justify"> Relationship managers should also be able to view their targeted list so that they can contact customers who are more likely to purchase a holiday package at the right time. </p>
 
-__Profiles are able to be updated__
+__Update Profiles__
 
 <p align="justify"> Relationship managers profiles are initialized during the start of their career at the company. We realised the RMs should be able to update their profile throughout their career in case there is any sudden changes in circumstances (e.g they learn to speak a new language and can be matched with additional customers). </p>
 
-__Busy time is considered when all RM are currently in a call__
+__Peak Hours are Considered (Busy Time)__
 
 <p align="justify"> We decided that a busy time is determined by when all relationship managers are currently on a call. During a busy time all inbound calls should be redirected to the interactive Voice Response. </p>
 
-### POV
+## 4.2 Point of View Statements
 User | Needs to | Insight
 ---- | -------- | -------
 End & Potential Customers | Payment method online | Customers should be able to make payments through EFT or card.
@@ -231,7 +242,7 @@ Relationship Managers | Receive a Target List | The RMs should be able to use th
 Relationship Managers | Profiles are able to be updated whenever needed | Profiles are initialised at hiring therefore RM’s should be able to update their profile whenever they need to should their personal information or repetoire change
 Developers | Busy time is considered when all RM are currently in a call | Busy time is considered when all Relationship Managers are currently in a call with customers
 
-### HMW Statements
+## 4.3 How Might We Statements
 HMW | Potential Solutions 
 ------- | -------------------------
 HMW improve the payment system for customers? | <ul><li>The RM or System is able to provide the user with an immediate link to a payment page with their desired package to be paid for</li><li>The system is able to handle the users input actions and follow through with the appropriate payment methods for the user</li></ul>|
@@ -242,7 +253,10 @@ HMW enable the relationship manager to view the current target list? | <ul><li> 
 HMW improve the current relationship management profile to allow for customisation | <ul><li> Relationship managers are able to access their profile. </li><li> Relationship managers are able to make edits at any time as long as they have access to the application. </li></li><li> Edit may include languages proficiencies, experience and product knowledge. </li></ul>
 HMW develop a way for the call management system to determine busy times | <ul><li> Customers will redirect as soon as all the phone lines in the office are full. </li><li> Phone lines are disconnected if there are no employees working during that time.  </li></ul>
 
-## 4.2 Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails 8. Document in GitHub all your iteration and models as you progress.
+## 4.4 Competitive Advantage of the System 
+
+## 4.5 Possible Failure of the Developed System
+
 
 
 
