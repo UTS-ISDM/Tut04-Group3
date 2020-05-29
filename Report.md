@@ -218,7 +218,7 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
             <td>USstory</td>
         </tr>
         <tr>
-            <td rowspan=8>2. Match RM and Customer</td>
+            <td rowspan=8><b>2. Match RM and Customer</b></td>
             <td>US201</td>
             <td>As the CMC, I want the system to use the questionnaire given to the new Employees so that it can automatically develop a specialised RM Profile with their skill matrix stored in it.</td>
         </tr>
@@ -251,7 +251,7 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
             <td>As a RM i want to be able to input my performance and product knowledge so that the system can match me well</td>
         </tr>
          <tr>
-            <td rowspan="3">Interactive Voice Response</td>
+            <td rowspan="3"><b>Interactive Voice Response</b></td>
             <td>US301</td>
             <td>a</td>
         </tr>
@@ -264,7 +264,7 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
             <td>a</td>
         </tr>
         <tr>
-            <td rowspan="2">Payment</td>
+            <td rowspan="2"><b>Payment</b></td>
             <td>US401</td>
             <td></td>
         </tr>
