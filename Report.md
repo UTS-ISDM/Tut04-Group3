@@ -191,9 +191,89 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
 * Call Redirection 
 * Payment
 
-User Story ID                |               User Story                |           Use Case Category
------------------------------|-----------------------------------------|---------------------------------
--insert user story id- | -insert user story- | -insert its appropriate category- 
+<table>
+    <thead>
+        <tr>
+            <th>Use Case</th>
+            <th>User Story ID</th>
+            <th>User Story</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4><b>1. RM Creating Customer Profile</b></td>
+            <td>US101</td>
+            <td>As an RM, If a customer doesn't have a profile, when making one for them I want fields such as customer phone number prefilled based on what number is calling me</td>
+        </tr>
+        <tr>
+            <td>US102</td>
+            <td>USstory</td>
+        </tr>
+        <tr>
+            <td>US103</td>
+            <td>USstory</td>
+        </tr>
+        <tr>
+            <td>US104</td>
+            <td>USstory</td>
+        </tr>
+        <tr>
+            <td rowspan=8>2. Match RM and Customer</td>
+            <td>US201</td>
+            <td>As the CMC, I want the system to use the questionnaire given to the new Employees so that it can automatically develop a specialised RM Profile with their skill matrix stored in it.</td>
+        </tr>
+        <tr>
+            <td>US202</td>
+            <td>As a RM i want to be able to be matched with customer's based on my profile so that i can provide the best experience for customers.</td>
+        </tr>
+         <tr>
+            <td>US203</td>
+            <td>As a RM, I want the system to provide me a list of potential customer's based on my preferences and abilities with all the necessary details of the customer's to provide for their needs and questions.</td>
+        </tr>
+         <tr>
+            <td>US204</td>
+            <td>As a customer i want to be able to call the company and be matched with a RM so that i can purchase a holiday package</td>
+        </tr>
+         <tr>
+            <td>US205</td>
+            <td>As the CMC, I need the system to be able to assign a skill score to each RM's profile based on their previous call histories</td>
+        </tr>
+         <tr>
+            <td>US206</td>
+            <td>As a RM I want to be able to view rating scores given to customers so that i can contact customers with high scores</td>
+        </tr>
+         <tr>
+            <td>US207</td>
+            <td>As a RM i want to be able to communicate to customers who speak a language i'm proficient in so that i can give the best possible service</td>
+        </tr>
+        <tr>
+            <td>US208</td>
+            <td>As a RM i want to be able to input my performance and product knowledge so that the system can match me well</td>
+        </tr>
+         <tr>
+            <td rowspan="3">Interactive Voice Response</td>
+            <td>US301</td>
+            <td>a</td>
+        </tr>
+        <tr>
+            <td>US302</td>
+            <td>a</td>
+        </tr>
+        <tr>
+            <td>US303</td>
+            <td>a</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Payment</td>
+            <td>US401</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>US402</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ## 3.2 Use Case Diagram
 ![](images/Use%20Case%20Diagram.jpg)
