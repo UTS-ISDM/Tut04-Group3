@@ -283,7 +283,17 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
 
 ## 3.5 Collaborative Diagram (Interaction Diagram)
 
-### 3.5.1 Payment
+### 3.5.1 Calls
+
+#### 3.5.1.1 Outbound Calls
+
+![](images/OutboundCallCollaDiagram%20(1).jpg)
+
+#### 3.5.1.2 Inbound Calls
+
+![](images/InboundCallCollaDiagram.jpg)
+
+### 3.5.2 Payment
 ![](images/PaymentCollaDiagram.jpg)
 
 # 4. System Evaluation
