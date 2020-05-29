@@ -283,6 +283,9 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
 
 ## 3.5 Collaborative Diagram (Interaction Diagram)
 
+### 3.5.1 Payment
+![](images/PaymentCollaDiagram.jpg)
+
 # 4. System Evaluation
 
 ## 4.1 Reflections and Assumptions
