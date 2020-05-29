@@ -194,7 +194,7 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
 <table>
     <thead>
         <tr>
-            <th>Use Case</th>
+            <th>Use Case Category</th>
             <th>User Story ID</th>
             <th>User Story</th>
         </tr>
