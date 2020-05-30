@@ -276,7 +276,6 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
 </table>
 
 ## 3.2 Use Case Diagram
-![](images/Use%20Case%20Diagram.jpg)
 ## 3.3 Class Diagram
 ![](images/Class%20Diagram.jpg)
 ## 3.4 Activity Diagram
