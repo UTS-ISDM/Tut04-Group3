@@ -331,11 +331,11 @@ This section aims to showcase a select few use cases with their modelled activit
 
 #### 3.5.1.1 Outbound Calls
 
-![](images/OutboundCallCollaDiagram%20(1).jpg)
+![](images/OutboundCollaDiagram.jpg)
 
 #### 3.5.1.2 Inbound Calls
 
-![](images/InboundCallCollaDiagram.jpg)
+![](images/InboundCollaDiagram.jpg)
 
 ### 3.5.2 Payment
 ![](images/PaymentCollaDiagram.jpg)
