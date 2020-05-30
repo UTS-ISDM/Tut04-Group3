@@ -362,6 +362,16 @@ The cost of managing human resources is significantly decreased as the CMC is ab
 
 ## 4.5 Possible Failure of the Developed System
 
+The system is likely to fail if the stakeholders do not contribute their part to the system. The CMC is heavily reliant on it’s user matching software therefore in order to efficiently allocate relationship managers they’re required to input correct personal & professional details. If any circumstances change for relationship managers they must update it through the system as well. Some important information required for efficient matching include
+
+* Proficiency in Languages
+* Product knowledge - which package they’re familiar with
+* Professional experience 
+* Age
+
+Before making an outbound call, a relationship manager must review scores given to customers. The CMC will provide a target list,  if the relationship manager fails to follow this rule it may mess up the purpose on why the algorithm was developed for the CMC. If relationship managers do not follow the given target list it may cause unknowingly issues such as inefficient matching and decrease in customer service quality
+
+Developers must continue to maintain and update the CMC system. It's likely that going forward there is a high possibility that the CMC system may need a new feature added to preserve a competitive advantage. Relationship managers & customers might also incur issues or bugs during the usage of the product & developers are responsible for fixing those issues within a reasonable time period. This means relationship managers should report any bugs & issues they encounter & it should be feasibly reasonable for customers to access a report system if they choose to submit any enquiries they face. 
 
 
 
