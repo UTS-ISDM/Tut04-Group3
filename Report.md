@@ -286,7 +286,7 @@ This section aims to showcase a select few use cases with their modelled activit
 ### 3.4.1 Select Package
 ![](images/Select%20Package%20Activity%20Diagram.jpg)
 ### 3.4.2 Make Payment
-
+![](images/Make%20Payment%20Activity%20Diagram.jpg)
 ### 3.4.3 Inbound Outbound Calls
 
 ## 3.5 Collaborative Diagram (Interaction Diagram)
