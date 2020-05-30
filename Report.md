@@ -356,6 +356,8 @@ HMW develop a way for the call management system to determine busy times | <ul><
 
 ## 4.4 Competitive Advantage of the System 
 
+The development of the central management system has effectively improved the interactive experience between both customers and relationship managers. CMC aims to gain a competitive advantage over holiday call companies by matching the skills of the relationship manager to cater to customers who call in. The result allows customers to speak to relationship managers who may have a higher level of proficiency in the same language and also are able to suggest products based on the RM’s product knowledge and experience. The CMC also allows the system to maintain customers who call in during a busy time by putting them on a wait list - this way customers know exactly how long they are expected to wait and can decide if they would like to hang up or wait the given amount of time. CMC also stores information on past customers, this will help the company develop a prolonged relationship with loyal customers as RM’s are more likely to contact customers who receive a higher rating score by the CMC system.
+
 ## 4.5 Possible Failure of the Developed System
 
 
