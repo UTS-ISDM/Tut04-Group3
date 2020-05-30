@@ -181,7 +181,7 @@ Gains
 
 <p align="justify"> Iteration is a crucial part of Scrum development where improvement can be made easily without affecting other parts of the project. By having small iteration, the feedback collected from product owner in any stage during the development process could be implemented without having a significant financial impact as well as different request for additional features or fixing existing bugs within the project. </p>
 
-<p align="justify"> For the project scrum was chosen as the preferred methodology in order to manage the tasks assigned while the due date of the project in consideration. In order to stay in contact with all members developing the system and product owner, a repository Using the online software Github has been created. Github would allow the product owner to monitor the work on the project throughout the entire process and add any recommendations at all time or highlights any changes that are required while the project is in progress. Developers would benefit from using Github as well as customers, Github allows developers to list all their tasks with the ability to sort these tasks depending on the priority of the task for each stage. Github would be an essential part of the work in cases where physical meetings are limited. As scrum requires 15 minutes daily meeting to discuss the progress made for all members of the development team. </p>
+<p align="justify"> For the project to develop the new Call Management System, scrum in particular was chosen as the preferred methodology to manage the tasks assigned while keeping in mind of the due date of the project. In order to stay in contact with all members developing the system and product owner, a repository Using the online software Github has been created. Github would allow the product owner to monitor the work on the project throughout the entire process and add any recommendations at all time or highlights any changes that are required while the project is in progress. Developers would benefit from using Github as well as customers, Github allows developers to list all their tasks with the ability to sort these tasks depending on the priority of the task for each stage. Github would be an essential part of the work in cases where physical meetings are limited. As scrum requires 15 minutes daily meeting to discuss the progress made for all members of the development team. </p>
   
 # 3. Workproducts, Models and Descriptions
 ## 3.1 User Stories
@@ -203,110 +203,111 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4><b>1. RM Creating Customer Profile</b></td>
+            <td rowspan=4><b>RM Creating Customer Profile</b></td>
             <td>US101</td>
-            <td>As an RM, If a customer doesn't have a profile, when making one for them I want fields such as customer phone number prefilled based on what number is calling me</td>
-            <td>P#</td>
-            <td>E#</td>
+            <td><p align="justify"> As an RM, If a customer doesn't have a profile, when making one for them I want fields such as customer phone number prefilled based on what number is calling me. </p></td>
+          <td><p align="center">High</p></td>
+          <td><p align="center">8</p></td>
         </tr>
         <tr>
             <td>US102</td>
-            <td>USstory</td>
-            <td>P#</td>
-            <td>E#</td>
+            <td><p align="justify"> As an RM I want to be able to create profiles quickly while on calls with customers so that I can focus on providing the appropriate customer service. </p></td>
+          <td><p align="center">High</p></td>
+          <td><p align="center">3</p></td>
         </tr>
         <tr>
             <td>US103</td>
-            <td>USstory</td>
-            <td>P#</td>
-            <td>E#</td>
+            <td><p align="justify"> As an RM I want to be able to link profiles of customers that are part of the same family/group so that I can provide more personalised booking offers. </p></td>
+          <td><p align="center">Medium</p></td>
+          <td><p align="center">5</p></td>
         </tr>
         <tr>
             <td>US104</td>
-            <td>USstory</td>
-            <td>P#</td>
-            <td>E#</td>
+            <td><p align="justify"> As an RM I want the form to not have required fields as I may not be able to get that information so that I can continue to create form during downtime. </p></td>
+          <td><p align="center">Medium</p></td>
+          <td><p align="center">2</p></td>
         </tr>
         <tr>
-            <td rowspan=8><b>2. Match RM and Customer</b></td>
+            <td rowspan=8><b>Match RM and Customer</b></td>
             <td>US201</td>
-            <td>As the CMC, I want the system to use the questionnaire given to the new Employees so that it can automatically develop a specialised RM Profile with their skill matrix stored in it.</td>
-            <td>High</td>
-            <td>8</td>
+            <td><p align="justify"> As the CMC, I want the system to use the questionnaire given to the new Employees so that it can automatically develop a specialised RM Profile with their skill matrix stored in it. </p></td>
+          <td><p align="center">High</p></td>
+          <td><p align="center">8</p></td>
         </tr>
         <tr>
             <td>US202</td>
-            <td>As a RM i want to be able to be matched with customer's based on my profile so that i can provide the best experience for customers.</td>
-            <td>High</td>
-            <td>8</td>
+            <td><p align="justify"> As a RM I want to be able to be matched with customer's based on my profile so that I can provide the best experience for customers. </p></td>
+          <td><p align="center">High</p></td>
+          <td><p align="center">8</p></td>
         </tr>
          <tr>
             <td>US203</td>
-            <td>As a RM, I want the system to provide me a list of potential customer's based on my preferences and abilities with all the necessary details of the customer's to provide for their needs and questions.</td>
-            <td>High</td>
-            <td>6</td>
+            <td><p align="justify"> As a RM, I want the system to provide me a list of potential customer's based on my preferences and abilities with all the necessary details of the customer's to provide for their needs and questions. </p></td>
+           <td><p align="center">High</p></td>
+           <td><p align="center">6</p></td>
         </tr>
          <tr>
             <td>US204</td>
-            <td>As a customer i want to be able to call the company and be matched with a RM so that i can purchase a holiday package</td>
-            <td>High</td>
-            <td>6</td>
+            <td><p align="justify"> As a customer I want to be able to call the company and be matched with a RM so that I can purchase a holiday package </p></td>
+           <td><p align="center">High</p></td>
+           <td><p align="center">6</p></td>
         </tr>
          <tr>
             <td>US205</td>
-            <td>As the CMC, I need the system to be able to assign a skill score to each RM's profile based on their previous call histories</td>
-           <td>Medium</td>
-            <td>4</td>
+            <td><p align="justify"> As the CMC, I need the system to be able to assign a skill score to each RM's profile based on their previous call histories. </p></td>
+           <td><p align="center">Medium</p></td>
+           <td><p align="center">4</p></td>
         </tr>
          <tr>
             <td>US206</td>
-            <td>As a RM I want to be able to view rating scores given to customers so that i can contact customers with high scores</td>
-           <td>Medium</td>
-            <td>3</td>
+            <td><p align="justify"> As a RM I want to be able to view rating scores given to customers so that I can contact customers with high scores. </p></td>
+           <td><p align="center">Medium</p></td>
+           <td><p align="center">3</p></td>
         </tr>
          <tr>
             <td>US207</td>
-            <td>As a RM i want to be able to communicate to customers who speak a language i'm proficient in so that i can give the best possible service</td>
-           <td>Medium</td>
-            <td>3</td>
+            <td><p align="justify"> As a RM I want to be able to communicate to customers who speak a language I'm proficient in so that I can give the best possible service. </p></td>
+           <td><p align="center">Medium</p></td>
+           <td><p align="center">3</p></td>
         </tr>
         <tr>
             <td>US208</td>
-            <td>As a RM i want to be able to input my performance and product knowledge so that the system can match me well</td>
-          <td>Medium</td>
-            <td>2</td>
+            <td><p align="justify"> As a RM I want to be able to input my performance and product knowledge so that the system can match me well. </p></td>
+          <td><p align="center">Medium</p></td>
+          <td><p align="center">2</p></td>
         </tr>
          <tr>
             <td rowspan="3"><b>Interactive Voice Response</b></td>
             <td>US301</td>
-            <td>a</td>
-            <td>P#</td>
-            <td>E#</td>
+            <td><p align="justify"> As a customer I want the voice response to be a recorded message from a person and not a robot voice so that the customer finds it is easier to understand. </p></td>
+           <td><p align="center">High</p></td>
+           <td><p align="center">1</p></td>
         </tr>
         <tr>
             <td>US302</td>
-            <td>a</td>
-            <td>P#</td>
-            <td>E#</td>
+            <td><p align="justify"> As a customer, I would like to be given an estimated amount of time I will be on hold until my call will be answered by an RM so  that i can decide whether to wait or not. </p></td>
+          <td><p align="center">Medium</p></td>
+          <td><p align="center">6</p></td>
         </tr>
         <tr>
             <td>US303</td>
-            <td>a</td>
-            <td>P#</td>
-            <td>E#</td>
+            <td><p align="justify"> As a customer I want the voice response to be straight forward to use with options selected by pressing numbers on my phone so that i can make a respond easier. </p></td>
+          <td><p align="center">Medium</p></td>
+          <td><p align="center">2</p></td>
         </tr>
         <tr>
             <td rowspan="2"><b>Payment</b></td>
             <td>US401</td>
-            <td></td>
-            <td>P#</td>
-            <td>E#</td>
+            <td><p align="justify">As a customer, I wish to be able to pay for my selected travel package using any payment method such as EFT or Card so that it is more convenient for me. </p>
+</td>
+          <td><p align="center">High</p></td>
+          <td><p align="center">6</p></td>
         </tr>
         <tr>
             <td>US402</td>
-            <td></td>
-            <td>P#</td>
-            <td>E#</td>
+            <td><p align="justify">As a customer, I want my credit card details to be stored into the system for future purchases so that I can easily pay for any future bookings.</p></td>
+          <td><p align="center">Low</p></td>
+          <td><p align="center">3</p></td>
         </tr>
     </tbody>
 </table>
@@ -330,13 +331,9 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
 ### 3.5.1 Calls
 
 #### 3.5.1.1 Outbound Calls
-
 ![](images/OutboundCollaDiagram.jpg)
-
 #### 3.5.1.2 Inbound Calls
-
 ![](images/InboundCollaDiagram.jpg)
-
 ### 3.5.2 Payment
 ![](images/PaymentCollaDiagram.jpg)
 
@@ -382,13 +379,13 @@ Developers | Busy time is considered when all RM are currently in a call | Busy 
 ## 4.3 How Might We Statements
 HMW | Potential Solutions 
 ------- | -------------------------
-HMW improve the payment system for customers? | <ul><li>The RM or System is able to provide the user with an immediate link to a payment page with their desired package to be paid for</li><li>The system is able to handle the users input actions and follow through with the appropriate payment methods for the user</li></ul>|
-HMW provide the feedback to the developers in a way they are able to understand? | <ul><li>A simple bullet point list with simple language used to convey any issues found in the system</li><li>A mind-map can be used to list out all the current issues by linking them with a specific area or feature in the system.</li><li>The relationship managers should actively work with the developers by constantly providing feedback so that the developers may cater with the needs of the system properly</li></ul>
-HMW discover the bugs to be found in the system? | <ul><li>The developers should try and actively test the features of the system and create a simple documentation to record any issues found</li><li>The developers should try and keep the code as clean as possible to prevent as many errors so that it does not waste unnecessary amounts of time</li></ul>
-HMW allow our developers to fix the bugs in time for release dates? | <ul><li> The developers should try and actively test the features of the system and create a simple documentation to record any issues found. </li><li> The developers should try and keep the code as clean as possible to prevent as many errors so that it does not waste unnecessary amounts of time </li></ul>
-HMW enable the relationship manager to view the current target list? | <ul><li> Developers have enabled a way for relationship managers to view a targeted list. </li><li> Relationship managers are able to view the list by a button created by developers  </li></ul>
-HMW improve the current relationship management profile to allow for customisation | <ul><li> Relationship managers are able to access their profile. </li><li> Relationship managers are able to make edits at any time as long as they have access to the application. </li></li><li> Edit may include languages proficiencies, experience and product knowledge. </li></ul>
-HMW develop a way for the call management system to determine busy times | <ul><li> Customers will redirect as soon as all the phone lines in the office are full. </li><li> Phone lines are disconnected if there are no employees working during that time.  </li></ul>
+HMW improve the payment system for customers? </p> | <ul><li><p align="justify">The RM or System is able to provide the user with an immediate link to a payment page with their desired package to be paid for</p></li><li><p align="justify">The system is able to handle the users input actions and follow through with the appropriate payment methods for the user</p></li></ul>|
+HMW provide the feedback to the developers in a way they are able to understand? | <ul><li><p align="justify">A simple bullet point list with simple language used to convey any issues found in the system.</p></li><li><p align="justify">A mind-map can be used to list out all the current issues by linking them with a specific area or feature in the system. </p></li><li><p align="justify">The relationship managers should actively work with the developers by constantly providing feedback so that the developers may cater with the needs of the system properly. </p></li></ul>
+HMW discover the bugs to be found in the system? | <ul><li><p align="justify">The developers should try and actively test the features of the system and create a simple documentation to record any issues found. </p></li><li><p align="justify">The developers should try and keep the code as clean as possible to prevent as many errors so that it does not waste unnecessary amounts of time. </p></li></ul>
+HMW allow our developers to fix the bugs in time for release dates? | <ul><li><p align="justify"> The developers should try and actively test the features of the system and create a simple documentation to record any issues found. </p></li><li><p align="justify"> The developers should try and keep the code as clean as possible to prevent as many errors so that it does not waste unnecessary amounts of time. </p></li></ul>
+HMW enable the relationship manager to view the current target list? | <ul><li><p align="justify"> Developers have enabled a way for relationship managers to view a targeted list. </p></li><li><p align="justify"> Relationship managers are able to view the list by a button created by developers. </p></li></ul>
+HMW improve the current relationship management profile to allow for customisation | <ul><li><p align="justify"> Relationship managers are able to access their profile. </p></li><li><p align="justify"> Relationship managers are able to make edits at any time as long as they have access to the application. </p></li><li><p align="justify"> Edit may include languages proficiencies, experience and product knowledge. </p></li></ul>
+HMW develop a way for the call management system to determine busy times | <ul><li><p align="justify"> Customers will redirect as soon as all the phone lines in the office are full. </p></li><li><p align="justify"> Phone lines are disconnected if there are no employees working during that time.  </p></li></ul>
 
 ## 4.4 Competitive Advantage of the System 
 
