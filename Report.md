@@ -65,15 +65,15 @@ Gains:
 
 **What do they see?**
 
-<p align="justify"> End customers are expected to receive calls from the system that will connect them to the relationship manager. They’re more likely to take priority as customers with a highest score are served first. </p>
+<p align="justify"> End customers are expected to receive calls from the system that will connect them to the relationship manager. They are more likely to take priority as customers with a highest score are served first. </p>
 
 **What do they say?**
 
-<p align="justify"> Potential customers may ask for a quote on holiday packages or discuss what package the package entails. Things they may ask - How long is the holiday? Cost of holiday? Insurance policies? They will also let the relationship manage know if they’re interested in purchasing a product. </p>
+<p align="justify"> Potential customers may ask for a quote on holiday packages or discuss what package the package entails. Things they may ask - How long is the holiday? Cost of holiday? Insurance policies? They will also let the relationship manage know if they are interested in purchasing a product. </p>
 
 **What do they do?**
 
-<p align="justify"> End customer’s should listen to what the product package offers and potentially state whether they are or not interested in purchasing the holiday package. If they’re interested they will be required to provide purchasing details. If they’re not interested they can tell the relationship manager and end the conversation or call. </p>
+<p align="justify"> End customer’s should listen to what the product package offers and potentially state whether they are or not interested in purchasing the holiday package. If they are interested they will be required to provide purchasing details. If they are not interested they can tell the relationship manager and end the conversation or call. </p>
 
 **What do they hear**
 
@@ -87,7 +87,7 @@ Pains:
 * Holiday package is not suitable for them - waste of time for customers	
 
 Gains 
-* They may be offered a package they’re interested in purchasing.
+* They may be offered a package they are interested in purchasing.
 * <p align="justify"> Fulfil a dream of purchasing the package of their choice and going on a holiday to the destination they wish to go to. </p>
 
 ### 1.3.3 Potential Customers
@@ -161,7 +161,7 @@ Pains
 * <p align="justify"> Want to provide a good final solution so the customer is happy and may use their companies services again. </p>
 
 Gains
-* <p align="justify"> Worry that if they can’t provide a quality final solution they may gain a negative reputation in the industry. </p>
+* <p align="justify"> Worry that they are not able to provide a quality final solution they may gain a negative reputation in the industry. </p>
 * <p align="justify"> Improve the customers calling experience and have more successful sales made. </p>
 
 # 2. Design Thinking
@@ -205,7 +205,7 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
         <tr>
             <td rowspan=4><b>RM Creating Customer Profile</b></td>
             <td>US101</td>
-            <td><p align="justify"> As an RM, If a customer doesn't have a profile, when making one for them I want fields such as customer phone number prefilled based on what number is calling me. </p></td>
+            <td><p align="justify"> As an RM, If a customer does not have a profile, when making one for them I want fields such as customer phone number prefilled based on what number is calling me. </p></td>
           <td><p align="center">High</p></td>
           <td><p align="center">8</p></td>
         </tr>
@@ -266,7 +266,7 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
         </tr>
          <tr>
             <td>US207</td>
-            <td><p align="justify"> As a RM I want to be able to communicate to customers who speak a language I'm proficient in so that I can give the best possible service. </p></td>
+            <td><p align="justify"> As a RM I want to be able to communicate to customers who speak a language I am proficient in so that I can give the best possible service. </p></td>
            <td><p align="center">Medium</p></td>
            <td><p align="center">3</p></td>
         </tr>
@@ -391,20 +391,20 @@ HMW develop a way for the call management system to determine busy times | <ul><
 
 <p align="justify"> The development of the new call management system will most definitely prove to effectively increase interactive experience between both the customers and the relationship managers by matching the profiles of the two with their similarity and preferences so that the relationship managers are able to easily win the favour of the customers through their own personal experiences or anecdotes. The CMC aims to gain a competitive advantage over various other holiday call companies by using this matching system through user profiling to increase the efficiency and likelihood of a customer purchasing a holiday package. This result allows (mainly) potential customers to speak to their matched relationship managers whom have a higher level of proficiency in the same language to cater to the wider audience and also similarly able to suggest products based on the RM’s product knowledge and experience. The CMC's new system also helps to accomodate customers who call in during a peak call time by putting them on a wait list such that in this way  the customers will be able to act based off their own decision by knowing the duration to wait for and can decide if they would like to hang up or wait the given amount of time until a Relationship Manager (preferably if they are matching) is available. The CMC also stores information on past customers as this will help the company develop a prolonged relationship with loyal customers as RM’s are more likely to contact customers who receive a higher rating score by the CMC system and prioritizing them when making targeted outbound calls. </p>
 
-<p align="justify"> The use of the newly developed system will also lower the cost of managing the human resources needed which will significantly decrease, thus allowing their resources to be allocated to the relationship managers more efficiently. This means the company is able to reduce the amount of redirected calls and wasted time which occurs between the RM's and Customers due to mismatches that are caused by language barriers or lack of specialized product knowledge for a specific customers preference. However, due to the upgrade in user profiling and matching of the customers & RM, this will statistically, if the RMs are able to resolve package offerings at a faster rate, they are also able to make more calls during their shift thus increasing the revenue for the company much more efficiently with less loses. </p>
+<p align="justify"> The use of the newly developed system will also lower the cost of managing the human resources needed which will significantly decrease, thus allowing their resources to be allocated to the relationship managers more efficiently. This means the company is able to reduce the amount of redirected calls and wasted time which occurs between the RM's and Customers due to mismatches that are caused by language barriers or lack of specialized product knowledge for a specific customers preference. However, due to the upgrade in user profiling and matching of the customers & RM, this will statistically, if the RMs are able to resolve package offerings at a faster rate, they are also able to make more calls during their shift thus increasing the revenue for the company much more efficiently with less loses. This is increasingly true in the current sitaution where more often than not, people will have similar ideas to gain a competitive edge in the market, and thus to break the barrier set by any limitations would be to develop a system which can promote as much customer collaboration as possible. Increasing the customer collaboration greatly helps to build a more proportionate system to the likings of the end users or potential customers and most importantly the more efficient the system, the lowe the waiting time which again leads to a greater satisfaction from the users whether it be the customers or the relationship managers. Moreover, with the addition of more automated processes in the business, unnecessary workload is removed which can be redirected to areas in need of more attention thus providing better care for the system which inevitably leads to a more well-balanced design and therefore would result in greater business profits in the long term.</p>
 
 ## 4.5 Possible Failure of the Developed System
 
-<p align="justify"> The system is likely to fail if the stakeholders do not contribute their part to the system. The CMC is heavily reliant on it’s user matching software therefore in order to efficiently allocate relationship managers they’re required to input correct personal & professional details. If any circumstances change for relationship managers they must update it through the system as well. Some important information required for efficient matching include. </p>
+<p align="justify"> The system is likely to fail if the stakeholders do not contribute their part to the system. The CMC is heavily reliant on it’s user matching software and therefore in order to efficiently and properly allocate their relationship managers they are required to input their personal and professional details correctly to reduce incompetency and miscommunication of information. If any circumstances were to change for any relationship manager, they must swiftly update it through the system as well such that the system can immediately provide the necessary updates to the database to prevent matching errors between the customers and the relationship managers. Thus, some important information is required for efficient matching and that includes the following: </p>
 
 * Proficiency in Languages
-* Product knowledge - which package they’re familiar with
-* Professional experience 
+* Product Knowledge - Country, Provenance, Tradition, Culture, Location etc.
+* Professional Experience 
 * Age
 
-<p align="justify"> Before making an outbound call, a relationship manager must review scores given to customers. The CMC will provide a target list,  if the relationship manager fails to follow this rule it may mess up the purpose on why the algorithm was developed for the CMC. If relationship managers do not follow the given target list it may cause unknowingly issues such as inefficient matching and decrease in customer service quality. </p>
+<p align="justify"> Secondly, before making an outbound call, a relationship manager must firstly review scores given to customers. The system will automatically generate and provide a target list in the required format and it is the responsibility of the relationship manager to read through the script and target list carefully as a guideline for how to interact with their targeted customers. Failure to do so causes various issues as the relationship manager may be viewed as incompetent or inconsiderate of what they are searching for. This would most definitely cascade into a larger issue and may leave negative remarks or even low ratings on any review sites about the quality of the management and the system in place, which is the reason why the system was developed for in the first place, to reduce as much human error as possible and to act as an auxillary in the equation. </p>
 
-<p align="justify"> Developers must continue to maintain and update the CMC system. It's likely that going forward there is a high possibility that the CMC system may need a new feature added to preserve a competitive advantage. Relationship managers & customers might also incur issues or bugs during the usage of the product & developers are responsible for fixing those issues within a reasonable time period. This means relationship managers should report any bugs & issues they encounter & it should be feasibly reasonable for customers to access a report system if they choose to submit any enquiries they face. </p>
+<p align="justify"> Thirdly, developers must continue to maintain and update the developed Call Management System as much as possible and keep supporting its further development. While it is undeniable that the system has been fully completed and implemented, additional features to brace the system will almost certaintly be required in the future. Relationship Managers and Customers alike would also encounter with issues or bugs during the usage of the product and so the developers are responsible for resolving these issues and preferably within a reasonable time period. However, bugs are usually hard to encounter unless certain conditions are met or are hiding blatantly in plain sight which in most cases those would have already been fixed early on. Which is why it is equally as important for the users alike to report these bugs as soon as possible and to notify any member of staff to improve the functionality of the system. </p>
 
 
 
