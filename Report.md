@@ -317,14 +317,14 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
 ![](images/Class%20Diagram2.jpg)
 ## 3.4 Activity Diagram
 
-This section aims to showcase a select few use cases with their modelled activity diagrams to display their how they will operate within the system.
+<p align="justify"> This section aims to showcase a select few use cases with their modelled activity diagrams to display their how they will operate within the system. </p>
 
 ### 3.4.1 Select Package
 ![](images/Select%20Package%20Activity%20Diagram.jpg)
 ### 3.4.2 Make Payment
 ![](images/Make%20Payment%20Activity%20Diagram.jpg)
 ### 3.4.3 Inbound Outbound Calls
-
+![](images/Inbound%20Outbound%20Calls%20Diagram.jpg)
 ## 3.5 Collaborative Diagram (Interaction Diagram)
 
 ### 3.5.1 Calls
@@ -392,22 +392,22 @@ HMW develop a way for the call management system to determine busy times | <ul><
 
 ## 4.4 Competitive Advantage of the System 
 
-The development of the central management system has effectively improved the interactive experience between both customers and relationship managers. CMC aims to gain a competitive advantage over holiday call companies by matching the skills of the relationship manager to cater to customers who call in. The result allows customers to speak to relationship managers who may have a higher level of proficiency in the same language and also are able to suggest products based on the RM’s product knowledge and experience. The CMC also allows the system to maintain customers who call in during a busy time by putting them on a wait list - this way customers know exactly how long they are expected to wait and can decide if they would like to hang up or wait the given amount of time. CMC also stores information on past customers, this will help the company develop a prolonged relationship with loyal customers as RM’s are more likely to contact customers who receive a higher rating score by the CMC system.
+<p align="justify"> The development of the new call management system will most definitely prove to effectively increase interactive experience between both the customers and the relationship managers by matching the profiles of the two with their similarity and preferences so that the relationship managers are able to easily win the favour of the customers through their own personal experiences or anecdotes. The CMC aims to gain a competitive advantage over various other holiday call companies by using this matching system through user profiling to increase the efficiency and likelihood of a customer purchasing a holiday package. This result allows (mainly) potential customers to speak to their matched relationship managers whom have a higher level of proficiency in the same language to cater to the wider audience and also similarly able to suggest products based on the RM’s product knowledge and experience. The CMC's new system also helps to accomodate customers who call in during a peak call time by putting them on a wait list such that in this way  the customers will be able to act based off their own decision by knowing the duration to wait for and can decide if they would like to hang up or wait the given amount of time until a Relationship Manager (preferably if they are matching) is available. The CMC also stores information on past customers as this will help the company develop a prolonged relationship with loyal customers as RM’s are more likely to contact customers who receive a higher rating score by the CMC system and prioritizing them when making targeted outbound calls. </p>
 
-The cost of managing human resources is significantly decreased as the CMC is able to allocate relationship managers efficiently. This means the company is able to reduce the amount of transfers that occur between RM that are caused by language barriers or lack of product knowledge (due to the upgrade in profiling and matching customers & RM). This means statistically, if RM are able to resolve package offerings at a faster rate, they are also able to make more calls during their shift.
+<p align="justify"> The use of the newly developed system will also lower the cost of managing the human resources needed which will significantly decrease, thus allowing their resources to be allocated to the relationship managers more efficiently. This means the company is able to reduce the amount of redirected calls and wasted time which occurs between the RM's and Customers due to mismatches that are caused by language barriers or lack of specialized product knowledge for a specific customers preference. However, due to the upgrade in user profiling and matching of the customers & RM, this will statistically, if the RMs are able to resolve package offerings at a faster rate, they are also able to make more calls during their shift thus increasing the revenue for the company much more efficiently with less loses. </p>
 
 ## 4.5 Possible Failure of the Developed System
 
-The system is likely to fail if the stakeholders do not contribute their part to the system. The CMC is heavily reliant on it’s user matching software therefore in order to efficiently allocate relationship managers they’re required to input correct personal & professional details. If any circumstances change for relationship managers they must update it through the system as well. Some important information required for efficient matching include
+<p align="justify"> The system is likely to fail if the stakeholders do not contribute their part to the system. The CMC is heavily reliant on it’s user matching software therefore in order to efficiently allocate relationship managers they’re required to input correct personal & professional details. If any circumstances change for relationship managers they must update it through the system as well. Some important information required for efficient matching include. </p>
 
 * Proficiency in Languages
 * Product knowledge - which package they’re familiar with
 * Professional experience 
 * Age
 
-Before making an outbound call, a relationship manager must review scores given to customers. The CMC will provide a target list,  if the relationship manager fails to follow this rule it may mess up the purpose on why the algorithm was developed for the CMC. If relationship managers do not follow the given target list it may cause unknowingly issues such as inefficient matching and decrease in customer service quality
+<p align="justify"> Before making an outbound call, a relationship manager must review scores given to customers. The CMC will provide a target list,  if the relationship manager fails to follow this rule it may mess up the purpose on why the algorithm was developed for the CMC. If relationship managers do not follow the given target list it may cause unknowingly issues such as inefficient matching and decrease in customer service quality. </p>
 
-Developers must continue to maintain and update the CMC system. It's likely that going forward there is a high possibility that the CMC system may need a new feature added to preserve a competitive advantage. Relationship managers & customers might also incur issues or bugs during the usage of the product & developers are responsible for fixing those issues within a reasonable time period. This means relationship managers should report any bugs & issues they encounter & it should be feasibly reasonable for customers to access a report system if they choose to submit any enquiries they face. 
+<p align="justify"> Developers must continue to maintain and update the CMC system. It's likely that going forward there is a high possibility that the CMC system may need a new feature added to preserve a competitive advantage. Relationship managers & customers might also incur issues or bugs during the usage of the product & developers are responsible for fixing those issues within a reasonable time period. This means relationship managers should report any bugs & issues they encounter & it should be feasibly reasonable for customers to access a report system if they choose to submit any enquiries they face. </p>
 
 
 
