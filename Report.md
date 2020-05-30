@@ -281,6 +281,14 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
 ![](images/Class%20Diagram.jpg)
 ## 3.4 Activity Diagram
 
+This section aims to showcase a select few use cases with their modelled activity diagrams to display their how they will operate within the system.
+
+### 3.4.1 Select Package
+![](images/Select%20Package%20Activity%20Diagram.jpg)
+### 3.4.2 Make Payment
+
+### 3.4.3 Inbound Outbound Calls
+
 ## 3.5 Collaborative Diagram (Interaction Diagram)
 
 ### 3.5.1 Calls
