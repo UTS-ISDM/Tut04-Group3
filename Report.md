@@ -12,10 +12,10 @@
 
 Stakeholder | Role/ Responibility
 ----------- | --------------------
-Relationship Manager (RM) | <p align="justify"> RM's along with the customers are the main users of the call management system. Their primary role is sell holiday packages to customers. The call managment system will effectively improve the relationship manager's role by matching a RM to a customer based on the RM's profile. </p>
-End Customers | <p align="justify"> End customers are stakeholders who have preivously brought a holiday package/ have their profile already registered in the system. The development of the call management system must play an important role to easily integrate & retain this customer base during the development phase. </p>
-Potential Customers | <p align="justify"> Potential customers are customers who are within the target market of the product. They are yet to purchase a product but are with likely probability to potentially become a user of the product. The call management system should ensure that the current system does not defer potential customer's from purchasing a holiday package. </p>
-Developers | <p align="justify"> Developers are the creaters of the Call Management System. Their role is to implement & maintance the call management system based on the requirements of each stakeholder. </p>
+Relationship Manager (RM) | <p align="justify"> RM's along with the customers are the main users of the call management system. Their primary role is to sell holiday packages to customers. The call managment system will effectively improve the relationship manager's role by matching a RM to a customer based on the RM's profile. </p>
+End Customers | <p align="justify"> End customers are stakeholders who have preivously brought a holiday package/ have their profile already registered in the system. The development of the call management system must play an important role to easily integrate & retain this customer base during the development phase in order to accurately match RM's with appropriate customers to increase effectiveness of sales. </p>
+Potential Customers | <p align="justify"> Potential customers are customers who are within the target market of the product. They are yet to purchase a product but are potential to become a user of the product. The call management system should ensure that the current system does not defer potential customer's from purchasing a holiday package. Once a potential customer becomes an end customer, it is important their information is correctly stored in the system so they can be correctly matched with an appropriate RM in the future. </p>
+Developers | <p align="justify"> Developers are the creators of the Call Management System. Their role is to implement & maintain the call management system based on the requirements of each stakeholder. As the system get used, developers might have to adjust the system to meet new requirements or fix broken parts of the system. </p>
 
 ## 1.3 Stakeholders Empathy Maps
 ### 1.3.1 Relationship Managers
@@ -25,7 +25,7 @@ Developers | <p align="justify"> Developers are the creaters of the Call Managem
 
 **What do they need to do?**
 
-<p align="justify"> Due to their experience, during development of the new system they may be able to provide some guidance on what they think appropriate criteria for changing the call flow rate may be. </p>
+<p align="justify"> Due to their experience, during development of the new system they may be able to provide some guidance on what they think appropriate criteria for changing the call flow rate may be. Once the system is developed, it is the ole of the RM to ensure the system is running smoothly and to report any errors to superiors/developers. </p>
 
 **What do they see?**
 
@@ -72,7 +72,7 @@ Gains:
 
 **What do they say?**
 
-<p align="justify"> Potential customers may ask for a quote on holiday packages or discuss what package the package entails. Things they may ask - How long is the holiday? Cost of holiday? Insurance policies? They will also let the relationship manage know if they are interested in purchasing a product. </p>
+<p align="justify"> Potential customers may ask for a quote on holiday packages or discuss what package the package entails. Things they may ask - How long is the holiday? Cost of holiday? Insurance policies? They will also let the relationship manager know if they are interested in purchasing a product. </p>
 
 **What do they do?**
 
@@ -123,17 +123,18 @@ Potential customers cover a wide number of people from all walks of life and can
 **What do they think and feel?**
 
 Pains
+* Annoyance of telemarketers calling them.
 * <p align="justify"> The people who are conversing with them are not trustworthy or are dangerous (scammers). </p>
 * <p align="justify"> That by purchasing for a package on their phone they have been phished and then scammed because of their lack of knowledge.	</p>
 
 Gains: 
-* <p align="justify"> They will ultimately have a desire to go on holiday at some point and would benefit from being sold a holiday package. </p>
+* <p align="justify"> They might get surprised and be offered the holiday package of their dreams and become a happy customer of the CMC. </p>
 
 ### 1.3.4 Developers
 
 **Who are we empathizing with?**
 
-<p align="justify"> Developers are the people responsible for creating the new system for the travel company. They have been contracted by the company to improve the call management centre and play the crucial role of making the project successful. </p>
+<p align="justify"> Developers are the people responsible for creating the new system for the travel company. They have been contracted by the company to improve the call management centre and play the crucial role in the success of the project. </p>
 
 **What do they need to do?**
 
@@ -161,10 +162,10 @@ Gains:
 
 Pains
 * <p align="justify"> May be worried that their final solution could put some people out of a job </p> 
-* <p align="justify"> Want to provide a good final solution so the customer is happy and may use their companies services again. </p>
+* <p align="justify"> Want to provide a good final solution so the customer is happy and may use their company's services again. </p>
+* <p align="justify"> Worry that they are not able to provide a quality final solution they may gain a negative reputation in the industry. </p>
 
 Gains
-* <p align="justify"> Worry that they are not able to provide a quality final solution they may gain a negative reputation in the industry. </p>
 * <p align="justify"> Improve the customers calling experience and have more successful sales made. </p>
 
 # 2. Design Thinking
