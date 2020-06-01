@@ -211,7 +211,7 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
         <tr>
             <td rowspan=4><b>RM Creating Customer Profile</b></td>
             <td>US101</td>
-            <td><p align="justify"> As an RM, If a customer does not have a profile, when making one for them I want fields such as customer phone number prefilled based on what number is calling me. </p></td>
+            <td><p align="justify"> As an RM, When making a profile for a customer I want fields such as customer phone number prefilled based on what number is calling me so that I can speed up processing. </p></td>
           <td><p align="center">High</p></td>
           <td><p align="center">8</p></td>
         </tr>
@@ -291,13 +291,13 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
         </tr>
         <tr>
             <td>US302</td>
-            <td><p align="justify"> As a customer, I would like to be given an estimated amount of time I will be on hold until my call will be answered by an RM so  that i can decide whether to wait or not. </p></td>
+            <td><p align="justify"> As a customer, I would like to be given an estimated amount of time I will be on hold until my call will be answered by an RM so that i can decide whether to wait or not. </p></td>
           <td><p align="center">Medium</p></td>
           <td><p align="center">6</p></td>
         </tr>
         <tr>
             <td>US303</td>
-            <td><p align="justify"> As a customer I want the voice response to be straight forward to use with options selected by pressing numbers on my phone so that i can make a respond easier. </p></td>
+            <td><p align="justify"> As a customer I want the voice response to be straight forward to use with options selected by pressing numbers on my phone so that I can make my response easier. </p></td>
           <td><p align="center">Medium</p></td>
           <td><p align="center">2</p></td>
         </tr>
