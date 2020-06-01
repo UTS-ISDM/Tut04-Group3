@@ -342,6 +342,8 @@ Based on the stakeholders and their empathy maps above, the set journey of use c
 ![](images/InboundCollaDiagram.jpg)
 ### 3.5.2 Payment
 ![](images/PaymentCollaDiagram.jpg)
+### 3.5.3 Create Customer Profile
+![](images/Create%20Customer%20profile%20CollaDiagram.jpg)
 
 # 4. System Evaluation
 
