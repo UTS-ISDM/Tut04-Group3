@@ -362,6 +362,9 @@ __Maintenance and Support of Product after Development__
 
 <p align="justify"> For the system to be successful, the system needs to be developed in a way that it can be easily updated in the future to compensate for any bugs created as a result of produced features required in the system. The developers should be able to communicate between new developers of the written software to be able to easily hand-over the project in case of any switches in the team so that the work may continue smoothly even after development </p>
 
+__Training users of the system__
+<p align="justify"> To produce a solution that would be viable in the long term it was assumed that there would be a level of support provided to the call centre employees suc has the relationship managers in order to train them to effectively use the various parts of the system.
+
 __Receive a Target List__
 
 <p align="justify"> Relationship managers should also be able to view their targeted list so that they can contact customers who are more likely to purchase a holiday package at the right time. </p>
